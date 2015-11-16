@@ -1,2 +1,2 @@
 # VerologTestRepo
-Repository for testing some Verilog core
+Repository for testing some Verilog code
